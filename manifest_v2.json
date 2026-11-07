@@ -29,6 +29,28 @@
     }
   ],
   "downloads": {
+    "xmb9p": {
+      "version": "1.0.1",
+      "file_name": "downloads/Dice Clock Pro.face",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "新增手环 9 Pro / 10 Pro 版"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "1.0.1",
+      "file_name": "downloads/Dice Clock Pro.face",
+      "versionCode": 65537,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "新增手环 9 Pro / 10 Pro 版"
+        }
+      ]
+    },
     "xmb10": {
       "version": "1.0.1",
       "file_name": "downloads/Dice Clock.face",
@@ -70,28 +92,6 @@
         {
           "version": "1.0.1",
           "content": "加了日期和电量"
-        }
-      ]
-    },
-    "xmb9p": {
-      "version": "1.0.0",
-      "file_name": "downloads/Dice Clock Pro.face",
-      "versionCode": 65536,
-      "updatelogs": [
-        {
-          "version": "1.0.0",
-          "content": "新增手环 9 Pro / 10 Pro 版"
-        }
-      ]
-    },
-    "xmb10p": {
-      "version": "1.0.0",
-      "file_name": "downloads/Dice Clock Pro.face",
-      "versionCode": 65536,
-      "updatelogs": [
-        {
-          "version": "1.0.0",
-          "content": "新增手环 9 Pro / 10 Pro 版"
         }
       ]
     }
